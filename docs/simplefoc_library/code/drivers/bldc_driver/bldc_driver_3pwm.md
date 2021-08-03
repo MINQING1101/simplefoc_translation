@@ -80,7 +80,7 @@ driver.voltage_limit = 12;
 
 因此，如果担心电机产生的电流过大，这个参数是非常重要的。在这种情况下，该参数可以当作安全特性来使用。
 
-## Step 2.3 Initialisation（初始化）
+## Step 2.3 Initialisation（步骤2.3 初始化）
 当必要的配置参数都设置好了，就会调用驱动器函数 `init()` 。该函数使用配置参数，并配置驱动器代码执行所需的所有硬件和软件。
 ```cpp
 // driver init
