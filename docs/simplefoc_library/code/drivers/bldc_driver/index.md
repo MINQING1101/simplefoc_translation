@@ -20,12 +20,12 @@ Arduino <span class="simple">Simple<span class="foc">FOC</span>library</span> �
 - [3PWM <i class="fa fa-external-link"></i>](bldcdriver3pwm) - 类 `BLDCDriver3PWM`
 - [6PWM <i class="fa fa-external-link"></i>](bldcdriver6pwm) - 类 `BLDCDriver6PWM`
 
-Classes `BLDCDriver3PWM` 和  `BLDCDriver6PWM` 类为支持的平台提供所有硬件/平台特定代码的抽象层： atmega328, esp32, stm32 and teensy 。
+ `BLDCDriver3PWM` 和  `BLDCDriver6PWM` 类为支持的平台提供所有硬件/平台特定代码的抽象层： atmega328, esp32, stm32 and teensy 。
 他们可以实现：
 
 - PWM 配置
     - PWM 频率
-    - PWM 中心-校准
+    - PWM 中心-对齐
     - 互补通道  (6PWM)
     - 死区/死区时间  (6PWM)
 - PWM 占空比设置 
