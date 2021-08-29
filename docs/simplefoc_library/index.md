@@ -42,7 +42,6 @@ The library is intended both for:
 
 ## YouTube demonstration videos
 <iframe class="youtube" src="https://www.youtube.com/embed/Y5kLeqTc6Zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This video demonstrates <span class="simple">Simple<span class="foc">FOC</span>library</span> basic usage, electronic connections and shows its basic capabilities.
 
 **The video hardware setup consists of:**
@@ -59,7 +58,6 @@ BLDC Gimbal Motor  <a class="pull-right" href="https://fr.aliexpress.com/item/32
 </ul> 
 
 <iframe class="youtube" src="https://www.youtube.com/embed/RI4nNMF608I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This video demonstrates <span class="simple">Simple<span class="foc">FOC</span>library</span> support for high-performance BLDC drivers such as DRV8302 and the support for Arudino and STM32 MCU architectures. 
 
 **The video hardware setup consists of:**
@@ -82,7 +80,6 @@ BLDC Gimbal Motor GBM5108-120T <a class="pull-right" href="https://www.onedrone.
 </ul> 
 
 <iframe class="youtube" src="https://www.youtube.com/embed/xTlv1rPEqv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This video demonstrates <span class="simple">Simple<span class="foc">FOC</span>library</span> support for Arduino <span class="simple">Simple<span class="foc">FOC</span>Shield</span> and using multiple motors with Arduino UNO. The project examples are based on bidirectional haptic control. 
 
 **The video hardware setup consists of:**
@@ -128,7 +125,6 @@ There are two ways to install this Arduino library, depending of your plans with
 ## Supported hardware
 Arduino <span class="simple">Simple<span class="foc">FOC</span>library</span> is made modular and will support most of the motor + sensor combinations out there, as well as many low-cost bldc driver boards.
 <p><img src="extras/Images/connection.gif" class="width50"></p>
-
 [Find out more <i class="fa  fa-external-link"></i>](supported_hardware)
 
 ## Writing the Code
