@@ -1,13 +1,3 @@
----
-layout: default
-title: v1.3.3
-parent: 焊盘部分
-grand_parent: 开始上手
-description: "Configuring your SimpleFOCShield by soldering the pads."
-nav_order: 1
-permalink: /pads_soldering_v1
-grand_grand_parent: Arduino <span class="simple">Simple<span class="foc">FOC</span>Shield</span>
----
 # 使用焊盘进行硬件配置 <br><span class="simple">Simple<span class="foc">FOC</span>Shield</span> <small>v1.3.3</small>
  Arduino <span class="simple">Simple<span class="foc">FOC</span>Shield</span> 的一个非常重要的特性是硬件配置。
 

@@ -1,12 +1,3 @@
----
-layout: default
-title: Arduino <span class="simple">Simple<span class="foc">FOC</span>Shield</span>
-description: "Arduino SimpleFOCShield board showcase."
-nav_order: 2
-permalink: /arduino_simplefoc_shield_showcase
-has_children: true
-has_toc: false
----
 
 
 # Arduino <span class="simple">Simple<span class="foc">FOC</span>Shield</span>  <small><i>v2.0.3</i></small>
